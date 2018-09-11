@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SetupCleanSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-11T16:39:52" hostname="B200639NT666" time="0.039">
+  <properties/>
+  <testcase name="metodo uno" classname="SetupCleanSpec" time="0.038"/>
+  <testcase name="metodo dos" classname="SetupCleanSpec" time="0.001"/>
+  <system-out><![CDATA[setup spec
+setup
+metodo uno
+setup
+metodo dos
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
